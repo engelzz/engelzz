@@ -10,7 +10,8 @@
 - 📫 matheusribeiroengel@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/engeldev/) -->
 
-I'm Matheus Engel, a software developer on demand from Brazil with .
+I'm Matheus Engel, a software developer from Brazil with experience on Javascript, HTML, CSS and Node.js
+.
 
 Currently i'm working with technologies more focused on front-end developmente.
 
