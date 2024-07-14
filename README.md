@@ -10,7 +10,7 @@
 - 📫 matheusribeiroengel@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/engeldev/) -->
 
-I'm Matheus Engel, a software developer from Brazil with experience on Javascript, ReactJS, TypeScript, CSS and Node.js
+I'm Matheus Engel, a software developer from Brazil with experience on Javascript, ReactJS, TypeScript, React Native and Node.js
 .
 
 Currently i'm working with technologies more focused on front-end developmente.
